@@ -1,0 +1,33 @@
+body{
+    
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.color-yellow{
+    color: #FFC017;
+}
+
+.border-grey{
+    color: 1px solid rgba(230,230,230,1);
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+
+.btn-border-radius{
+    border-radius: 18px;
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+#aside > .fix > ul > li > a {
+    text-decoration: none;
+    color: grey;
+}
