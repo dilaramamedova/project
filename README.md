@@ -1,6 +1,1 @@
-# test
-
-## aciglama
-Salam. Bu menim githuba yuklediyim ilk proyektdir.
-
-[lorem ipsum](http://google.com)
+Hi there. It is my first project in Github
